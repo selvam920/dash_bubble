@@ -1,1 +1,3 @@
 rootProject.name = 'dash_bubble'
+include ':dash_bubble'
+project(':dash_bubble').projectDir = file('https://github.com/YvanMvondo2/dash_bubble.git')
