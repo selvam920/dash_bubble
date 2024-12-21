@@ -8,8 +8,7 @@ screenshots:
     path: doc/assets/animated_example.webp
 
 environment:
-  sdk: ">=2.19.2 <3.0.0"
-  flutter: ">=2.5.0"
+  sdk: ">=3.6.0 <=4.0.0"
 
 dependencies:
   flutter:
